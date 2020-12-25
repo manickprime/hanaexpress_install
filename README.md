@@ -11,4 +11,9 @@ Step 4. Deploy HANA Container using deployHanaExpress.sh
 
 Step 5. Login into docker container with command "docker exec -it hanaexpress /bin/bash"
 
-Step 6. Run HANA DB client as SYSTEMDB, refere fix_hana_express_host.sh
+Step 6. Run HANA DB client as SYSTEMDB, refere hdsql_query.txt
+        Replace <system_database> with "SYSTEMDB" and <password> with master password maintained in the master password file in step 3
+
+Step 7. Fix hostname in global configure using fix_hana_express_host.sh to access HDB from external hosts
+
+Step 8. If in dobut, please refere links.txt which contains individual links to install process
