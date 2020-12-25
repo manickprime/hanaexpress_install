@@ -1,0 +1,1 @@
+hdbsql -i 90 -d <system_database> -u SYSTEM -p <password>
