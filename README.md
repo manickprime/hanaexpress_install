@@ -1,7 +1,7 @@
 # hanaexpress_install
-<b>
-# Note: All shell scripts are expecting ZSH shell, if zsh is not available please update file to point to bash
-</b>
+<b>Note: All shell scripts are expecting ZSH shell, if zsh is not available please update file to point to bash</b>
+
+<br>
 Install Hana Express on Docker
 
 Step 1. Install Docker-ce by running script as ./docker-ce-install.sh
