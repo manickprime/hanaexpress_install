@@ -1,6 +1,5 @@
 # hanaexpress_install
 <b>Note: All shell scripts are expecting ZSH as shell, if ZSH is not available please update files to point to bash </b>
-
 <br>
 Install Hana Express on Docker
 <br>
